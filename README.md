@@ -60,7 +60,7 @@
 
   <h3><pre>Styles</pre></h3>
 
-<a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Rainbow_of_Colors.md">
+<a href="/Pages/MJ_V5/Style_Pages/Just_The_Style/Rainbow_of_Colors.md">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width=758>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors_light.webp?raw=true" width=758>
